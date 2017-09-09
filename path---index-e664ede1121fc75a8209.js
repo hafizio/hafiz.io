@@ -1,2 +1,0 @@
-webpackJsonp([5],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"hafizio"}},allMarkdownRemark:{edges:[{node:{frontmatter:{path:"/active-support-concern/",title:"Cleaner model with ActiveSupport::Concern"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-e664ede1121fc75a8209.js.map
